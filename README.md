@@ -1,6 +1,6 @@
 # CustomCallableTask 소개
 
-이 소스 코드는 다음의 글<https://medium.com/swlh/asynctask-is-deprecated-now-what-f30c31362761>을 구현한 샘플 프로젝트 입니다.  
+이 소스 코드는 다음의 [포스트](https://medium.com/swlh/asynctask-is-deprecated-now-what-f30c31362761)를 구현한 샘플 프로젝트 입니다.  
 ※ 글에는 전체 소스코드가 없음
 
 2019년 11월 `AsyncTask`가 deprecate 되었는데요.    
